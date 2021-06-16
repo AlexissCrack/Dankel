@@ -27,7 +27,7 @@ PARA INGRESAR AL GENERADOR ESCRIBE LOS COMANDOS EN MINUSCULA  gerar.sh o gerar
 
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/blob/master/GENERADOR-VPS-MX/Imagenes/Install-scripts.png)
 
-wget https://raw.githubusercontent.com/AlexissCrack/Dankel/master/instalscript.sh; chmod 777 instalscript.sh* && ./instalscript.sh*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AlexissCrack/Dankel/master/instalscript.sh; chmod 777 instalscript.sh* && ./instalscript.sh*
 
 -------------------------------------------------------------------------------
 
